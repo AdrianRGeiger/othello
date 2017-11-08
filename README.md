@@ -1,2 +1,0 @@
-# othello
-Mein Othello-Projekt
